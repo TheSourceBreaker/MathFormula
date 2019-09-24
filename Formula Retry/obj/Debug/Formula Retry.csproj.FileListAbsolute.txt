@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\bin\Debug\Formula Retry.exe.config
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\bin\Debug\Formula Retry.exe
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\bin\Debug\Formula Retry.pdb
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\obj\Debug\Formula Retry.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\obj\Debug\Formula Retry.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\obj\Debug\Formula Retry.exe
+C:\Users\s199041\source\repos\Formula Retry\Formula Retry\obj\Debug\Formula Retry.pdb
